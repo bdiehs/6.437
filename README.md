@@ -1,4 +1,4 @@
-Final project for 6.437(Inference and Information)
+Final project for 6.437(Inference and Information) at MIT
 
 This is an implementation of the Metropolis Hastings Algorithm with a few enhancements to decode a Caesar cipher (https://en.wikipedia.org/wiki/Caesar_cipher)
 
